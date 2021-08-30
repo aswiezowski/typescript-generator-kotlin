@@ -1,5 +1,4 @@
 import cz.habarta.typescript.generator.*
-import java.io.File
 
 fun main() {
     val settings = Settings()
